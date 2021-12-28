@@ -1,0 +1,9 @@
+{
+	"name": "adf-test-lak",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7776901b-f1a4-4dcc-a50c-94ce30ca28aa",
+		"tenantId": "0d315030-fef3-447c-9b1d-b076e0699c27"
+	}
+}
